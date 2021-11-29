@@ -1,0 +1,27 @@
+When Tableau connects to data, fields are assigned into two roles:
+
+---> Dimensions and Measures
+
+
+Types of Charts
+
+Line — View trends in data over time.
+Bar — Compare data across categories.
+Heat Map — Show the relationship between two factors.
+Highlight Table — Shows detailed information on heat maps.
+Treemap — Show hierarchical data as a proportion of a whole.
+Gantt — Show duration over time. 
+Bullet — Evaluate performance of a metric against a goal. 
+Scatterplot — Investigate relationships between quantitative values.
+Histogram — Understand the distribution of your data. 
+Symbol maps — Use for totals rather than rates. Be careful, as small differences will be hard to see.
+Area maps — Use for rates rather than totals. Use sensible base geography.
+Box-and-Whisker — Show the distribution of a set of a data. 
+
+
+1)Connect Tableau desktop to data.
+2)Build visualisation from data to analyze it.
+3)Share your analysis.
+
+
+
